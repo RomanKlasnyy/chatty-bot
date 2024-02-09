@@ -1,2 +1,7 @@
 # chattybot
-A simple project from HyperSkill made to refresh the basic Python knowledge.
+A simple chatty bot based on the project from HyperSkill
+
+## Supported languages:
+- Python
+- Java
+- Go
